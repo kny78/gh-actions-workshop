@@ -27,3 +27,15 @@ jobs:
     steps:
       - name: Print message to terminal
         run: echo "Hello 🌏 !!!"
+
+      - name: checkout
+        uses: actions/checkout@4
+
+      - name: nmp deps
+        run: npm ci
+
+      - name: Build
+        run: npm run build
+        
+
+
