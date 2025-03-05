@@ -15,7 +15,6 @@
 1. [Workflow dispatch inputs and security verification](../10/README.md)
 1. [Learn more about GitHub Actions](../11/README.md)
 
-
 </details>
 
 There are looads of events we can use to trigger our workflows.

@@ -15,7 +15,6 @@
 1. [Workflow dispatch inputs and security verification](../10/README.md)
 1. [Learn more about GitHub Actions](../11/README.md)
 
-
 </details>
 
 From time to time we want our workflows to output something that we can use in other steps or jobs.

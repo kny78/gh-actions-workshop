@@ -15,7 +15,6 @@
 1. [Workflow dispatch inputs and security verification](../10/README.md)
 1. [Learn more about GitHub Actions](../11/README.md)
 
-
 </details>
 
 In the previous task we created a workflow that runs a single job.

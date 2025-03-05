@@ -15,7 +15,6 @@
 1. [Workflow dispatch inputs and security verification](../10/README.md)
 1. [Learn more about GitHub Actions](../11/README.md)
 
-
 </details>
 
 Dependabot is a GitHub feature that automatically creates pull requests to update dependencies.

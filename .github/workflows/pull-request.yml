@@ -37,5 +37,18 @@ jobs:
       - name: Build
         run: npm run build
 
+  build:
 
+    steps:
 
+      - name build
+        run: build
+
+#format:check
+#format:fix
+#lint:check
+#lint:fix
+#markdownlint:check
+#markdownlint:fix
+#start
+#test
